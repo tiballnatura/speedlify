@@ -1,6 +1,7 @@
 module.exports = {
 	name: "allnatura.de", // optional, falls back to object key
 	description: "Testing allnatura.de",
+	skip: false,
 	options: {
 		runs: 1,
 		frequency: 1, // (in minutes)
